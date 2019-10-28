@@ -1,0 +1,5 @@
+Change Component Comment : Designator=P? Old Comment=Header 10 New Comment=left_header
+Change Component Comment : Designator=P? Old Comment=Header 10 New Comment=right_header
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Member To Class: ClassName=RN2483A Member=Component P2 right_header

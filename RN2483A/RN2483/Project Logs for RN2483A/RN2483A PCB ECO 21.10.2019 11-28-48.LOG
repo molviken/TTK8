@@ -1,0 +1,8 @@
+Added Component: Designator=H1(Header1X10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH1_19 Pin=H1-19
+Added Pin To Net: NetName=NetH1_19 Pin=U?-30
+Added Net: Name=NetH1_19
+Added Pin To Net: NetName=NetH1_20 Pin=H1-20
+Added Pin To Net: NetName=NetH1_20 Pin=U?-31
+Added Net: Name=NetH1_20

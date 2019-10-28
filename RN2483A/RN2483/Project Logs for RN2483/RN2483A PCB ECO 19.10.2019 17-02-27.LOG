@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=RN2483A Member=com_module_left?
+Added Component: Designator=P?(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Net: Name=GND
+Added Pin To Net: NetName=PGC_INT Pin=P?-3
+Added Net: Name=PGC_INT
+Added Pin To Net: NetName=PGD_INT Pin=P?-4
+Added Net: Name=PGD_INT
+Added Pin To Net: NetName=RESET Pin=P?-5
+Added Net: Name=RESET
+Added Pin To Net: NetName=RFH Pin=P?-1
+Added Net: Name=RFH
+Added Pin To Net: NetName=RFL Pin=P?-2
+Added Net: Name=RFL
+Added Pin To Net: NetName=UART_RX Pin=P?-3
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P?-2
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=RN2483A Member=Component P? Header 10
+Added Member To Class: ClassName=RN2483A Member=Component P? Header 10

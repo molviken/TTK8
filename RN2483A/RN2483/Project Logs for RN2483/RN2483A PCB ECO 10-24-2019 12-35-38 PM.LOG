@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetHR_9 Pin=HR-9
+Added Pin To Net: NetName=NetHR_9 Pin=U?-30
+Added Net: Name=NetHR_9
+Added Pin To Net: NetName=NetHR_10 Pin=HR-10
+Added Pin To Net: NetName=NetHR_10 Pin=U?-31
+Added Net: Name=NetHR_10

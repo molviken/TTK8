@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=RN2483A NewDesignator=U?
+Added Pin To Net: NetName=VCC Pin=U?-34
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=GND Pin=U?-27
+Added Pin To Net: NetName=GND Pin=U?-28
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Net: Name=GND
+Added Pin To Net: NetName=PGC_INT Pin=U?-30
+Added Net: Name=PGC_INT
+Added Pin To Net: NetName=PGD_INT Pin=U?-31
+Added Net: Name=PGD_INT
+Added Net: Name=UART_RX
+Added Net: Name=UART_TX

@@ -1,0 +1,19 @@
+Added Component: Designator=U?(MCHP-MODULE-47_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en574289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C, 04/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "47-Pin Surface Mount Device, Body 26.67 x 17.78 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MODULE-47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "false"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART_TX Pin=U?-6
+Added Pin To Net: NetName=UART_RX Pin=U?-7
+Added Pin To Net: NetName=RFH Pin=U?-23
+Added Pin To Net: NetName=RFL Pin=U?-25
+Added Pin To Net: NetName=PGC_INT Pin=U?-30
+Added Pin To Net: NetName=PGD_INT Pin=U?-31
+Added Pin To Net: NetName=RESET Pin=U?-32
+Added Member To Class: ClassName=RN2483A Member=Component P? Header 10
+Added Member To Class: ClassName=RN2483A Member=Component U? RN2483A-I/RM103

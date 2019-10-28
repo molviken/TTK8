@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RFH Pin=P2-1
+Removed Pin From Net: NetName=RFL Pin=P2-2
+Added Member To Class: ClassName=RN2483A Member=Component P1 left_header

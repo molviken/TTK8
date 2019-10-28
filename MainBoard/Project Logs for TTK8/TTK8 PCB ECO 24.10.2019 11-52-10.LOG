@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=TTK8 Member=com_module_left
+Added Component: Designator=*(Header1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y?(ABRA-AB26T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Diameter"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Length"; Value = "6.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.abracon.com/Resonators/AB26T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "06/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "2.1mmDia.x6.2mmL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "35kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "-0.034PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-10Cto+60C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Cylinder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 2.1 mm, Body Length 6.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "AB26T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.abracon.com/Support/PackageDrawing/Resonators/AB26T.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Crystals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AB26T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "WatchCrystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TOSC1 Pin=U?-25
+Added Pin To Net: NetName=TOSC1 Pin=Y?-1
+Added Net: Name=TOSC1
+Added Pin To Net: NetName=TOSC2 Pin=U?-26
+Added Pin To Net: NetName=TOSC2 Pin=Y?-2
+Added Net: Name=TOSC2
+Added Member To Class: ClassName=TTK8 Member=Component * Header1X10
+Added Member To Class: ClassName=TTK8 Member=Component U? ATMEGA324PB-AU
+Added Member To Class: ClassName=TTK8 Member=Component Y? AB26T-32.768KHZ
+Added Room: Name=TTK8

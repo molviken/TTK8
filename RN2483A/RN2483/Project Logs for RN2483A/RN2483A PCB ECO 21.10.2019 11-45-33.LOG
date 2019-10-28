@@ -1,0 +1,10 @@
+Added Component: Designator=HL(Header1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HR(Header1X10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=HL-1
+Added Pin To Net: NetName=UART_TX Pin=HL-2
+Added Pin To Net: NetName=UART_RX Pin=HL-3
+Added Pin To Net: NetName=GND Pin=HL-10
+Added Pin To Net: NetName=PGC_INT Pin=HR-1
+Added Pin To Net: NetName=PGD_INT Pin=HR-2

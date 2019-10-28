@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=TTK8 Member=*
+Change Component Designator: OldDesignator=U? NewDesignator=LDO
+Change Component Designator: OldDesignator=U? NewDesignator=MCU
+Change Component Designator: OldDesignator=Y? NewDesignator=RTC
+Added Component: Designator=R1(RESC1005X40X25NL05T05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MCU-6
+Added Pin To Net: NetName=GND Pin=MCU-28
+Added Net: Name=GND
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=MCU-4
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R1-1
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=RX Pin=MCU-10
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=MCU-9
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=LDO-2
+Added Pin To Net: NetName=VCC Pin=MCU-5
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=TTK8 Member=Component LDO LD1117S33TR
+Added Member To Class: ClassName=TTK8 Member=Component R1 
+Added Room: Name=TTK8
