@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R2 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R3 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R4 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Added Component: Designator=C7(CAPC0603(1608)55_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "5152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "komponenttype"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "1759122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Kondensator, Capacitor, CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "18.02.2015 14:18:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.11.2014 20:19:34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Member To Class: ClassName=TTK8 Member=Component C7 100nF
+Added Member To Class: ClassName=TTK8 Member=Component T1 DMP1045U
+Added Room: Name=TTK8
