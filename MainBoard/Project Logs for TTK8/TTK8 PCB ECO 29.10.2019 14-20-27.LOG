@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=VCC Pin=LDO-2
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Member From Class: ClassName=TTK8 Member=LDO
+Removed Member From Class: ClassName=TTK8 Member=R1
+Change Component Designator: OldDesignator=RTC NewDesignator=RTC 32kHz
+Added Component: Designator=1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(Capacitor electrolytic SMD 4x5.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor electrolytic SMD 4x5.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=SW(KSC222G LFS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(2N7002)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(2N7002)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T(DMP1045U)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=SW-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=SW-2
+Added Pin To Net: NetName=GND Pin=SW-3
+Added Pin To Net: NetName=GND Pin=SW-4
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=VCC Pin=T2-2
+Added Pin To Net: NetName=GPIO1 Pin=T1-1
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=T2-1
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=Net1_1 Pin=MCU-8
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_2 Pin=MCU-7
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=MCU-25
+Added Pin To Net: NetName=NetC1_1 Pin=RTC 32kHz-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=MCU-26
+Added Pin To Net: NetName=NetC1_2 Pin=RTC 32kHz-2
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=TTK8 Member=Component 1 AB-1.8432MHZ-B2
+Added Member To Class: ClassName=TTK8 Member=Component C1 EEE1HA2R2SR
+Added Member To Class: ClassName=TTK8 Member=Component C2 EEE1HA2R2SR
+Added Member To Class: ClassName=TTK8 Member=Component SW KSC222G LFS
+Added Member To Class: ClassName=TTK8 Member=Component T1 N-CHANNEL MOSFET
+Added Member To Class: ClassName=TTK8 Member=Component T2 N-CHANNEL MOSFET
+Added Member To Class: ClassName=TTK8 Member=Component T DMP1045U
+Added Room: Name=TTK8

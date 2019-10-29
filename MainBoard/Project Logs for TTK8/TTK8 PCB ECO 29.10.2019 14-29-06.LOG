@@ -1,0 +1,7 @@
+Added Component: Designator=R?(RESC1005X40X25NL05T05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R?-2
+Added Member To Class: ClassName=TTK8 Member=Component R? CRCW040210K0FKED
