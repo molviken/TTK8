@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GPIO3 Pin=JTAG-4
+Added Pin To Net: NetName=MISO Pin=MCU1-2
+Added Pin To Net: NetName=SCK Pin=MCU1-3

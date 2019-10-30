@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPIO2 Pin=MCU-12
+Added Pin To Net: NetName=GPIO2 Pin=MCU-22

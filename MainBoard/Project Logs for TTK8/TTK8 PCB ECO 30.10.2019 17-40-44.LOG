@@ -1,0 +1,12 @@
+Added Component: Designator=JTAG(Header 2x3 male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=JTAG-2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=JTAG-5
+Added Pin To Net: NetName=GND Pin=JTAG-6
+Added Pin To Net: NetName=MISO Pin=JTAG-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=JTAG-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=JTAG-3
+Added Net: Name=SCK
+Added Member To Class: ClassName=TTK8 Member=Component JTAG 123-34-2234_1

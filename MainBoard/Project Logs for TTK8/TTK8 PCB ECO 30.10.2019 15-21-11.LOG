@@ -1,0 +1,7 @@
+Added Component: Designator=reg1(CAT3200TDI-GT3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=reg1-1
+Added Pin To Net: NetName=GND Pin=reg1-2
+Added Pin To Net: NetName=GPIO3 Pin=reg1-3
+Added Net: Name=GPIO3
+Added Member To Class: ClassName=TTK8 Member=Component reg1 CAT3200TDI-GT3

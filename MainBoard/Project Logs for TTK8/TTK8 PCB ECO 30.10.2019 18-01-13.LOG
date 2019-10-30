@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=MCU1-36
+Removed Pin From Net: NetName=VCC Pin=reg1-1
+Added Component: Designator=J(USB micro)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1568022"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J-1
+Added Pin To Net: NetName=GND Pin=J-5
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=reg1-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=TTK8 Member=Component J USB micro
+Added Member To Class: ClassName=TTK8 Member=Component R2 CRCW04020000Z0ED

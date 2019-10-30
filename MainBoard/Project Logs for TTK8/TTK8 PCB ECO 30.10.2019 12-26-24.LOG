@@ -1,0 +1,8 @@
+Added Component: Designator=*(Header1X10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=TX Pin=*-2
+Added Pin To Net: NetName=RX Pin=*-3
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-10
+Added Member To Class: ClassName=TTK8 Member=Component * Header1X10

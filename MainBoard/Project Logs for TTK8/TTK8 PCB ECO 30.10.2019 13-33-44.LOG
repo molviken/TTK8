@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Added Pin To Net: NetName=GND Pin=C8-1

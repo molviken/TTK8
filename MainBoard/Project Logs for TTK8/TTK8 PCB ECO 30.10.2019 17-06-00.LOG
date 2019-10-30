@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC9_2
+Added Member To Class: ClassName=TTK8 Member=Component C3 22pF
+Added Member To Class: ClassName=TTK8 Member=Component C6 22pF
+Added Member To Class: ClassName=TTK8 Member=Component C7 22pF
+Added Member To Class: ClassName=TTK8 Member=Component C8 100nF
+Added Member To Class: ClassName=TTK8 Member=Component T1 DMP1045U
+Added Member To Class: ClassName=TTK8 Member=Component Y2 9HT10-32.768KEZC-T

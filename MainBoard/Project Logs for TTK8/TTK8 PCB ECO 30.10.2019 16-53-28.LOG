@@ -1,0 +1,17 @@
+Added Component: Designator=*(18650)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0603C105K8PACTU)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GPIO3 Pin=MCU-41
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=reg1-4
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=reg1-6
+Added Net: Name=NetC9_2
+Added Member To Class: ClassName=TTK8 Member=Component * Header1X10
+Added Member To Class: ClassName=TTK8 Member=Component C9 C0603C105K8PACTU
