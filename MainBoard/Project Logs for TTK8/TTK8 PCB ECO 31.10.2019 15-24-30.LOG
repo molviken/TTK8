@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC Pin=J-1
+Removed Pin From Net: NetName=GND Pin=J-5
+Removed Pin From Net: NetName=GPIO3 Pin=reg1-3
+Removed Pin From Net: NetName=Net*1_1 Pin=reg1-5
+Removed Member From Class: ClassName=TTK8 Member=J
+Added Component: Designator=*(AdaUSBC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=T(DMP1045U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cont. drain current"; Value = "5.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2061526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold voltage"; Value = "-550mV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=Net*1_1 Pin=T-2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R3-2
+Added Pin To Net: NetName=Net*_1 Pin=T-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetMCU1_36 Pin=MCU1-36
+Added Pin To Net: NetName=NetMCU1_36 Pin=reg1-5
+Added Pin To Net: NetName=NetMCU1_36 Pin=T-3
+Added Net: Name=NetMCU1_36
+Added Member To Class: ClassName=TTK8 Member=Component *2 Header1X10
+Added Member To Class: ClassName=TTK8 Member=Component * AdaUSBC
+Added Member To Class: ClassName=TTK8 Member=Component J1 Header 2x3
+Added Member To Class: ClassName=TTK8 Member=Component R3 CPF-A-0603B100KE1
+Added Member To Class: ClassName=TTK8 Member=Component Reset1 KSC222G LFS
+Added Member To Class: ClassName=TTK8 Member=Component T DMP1045U
+Added Member To Class: ClassName=TTK8 Member=Component Y1 AB-1.8432MHZ-B2

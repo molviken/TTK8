@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : Z:\Brukere\Molvik\TTK8\RN2483\RN2483A.PcbDoc
+Date     : 31.10.2019
+Time     : 17:02:41
+
+Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.16mm) Between Pad U1-30(98.552mm,65.024mm) on Top Layer And Track (98.552mm,64.897mm)(98.726mm,64.724mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.16mm) Between Pad U1-31(98.552mm,66.294mm) on Top Layer And Track (98.552mm,66.167mm)(98.744mm,66.359mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.16mm) Between Pad U1-31(98.552mm,66.294mm) on Top Layer And Track (98.552mm,66.294mm)(98.68mm,66.422mm) on Top Layer 
+Rule Violations :3
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad U1-30(98.552mm,65.024mm) on Top Layer And Track (98.552mm,64.897mm)(98.726mm,64.724mm) on Top Layer Location : [X = 98.639mm][Y = 64.833mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-31(98.552mm,66.294mm) on Top Layer And Track (98.552mm,66.167mm)(98.744mm,66.359mm) on Top Layer Location : [X = 98.648mm][Y = 66.263mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-31(98.552mm,66.294mm) on Top Layer And Track (98.552mm,66.294mm)(98.68mm,66.422mm) on Top Layer Location : [X = 98.616mm][Y = 66.358mm]
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.16mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=1mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.35mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.178mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT1-P$1(79.675mm,55.125mm) on Top Layer And Track (78.175mm,54.9mm)(81.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT1-P$2(78.2mm,53.6mm) on Top Layer And Track (78.175mm,52.3mm)(78.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT1-P$2(78.2mm,53.6mm) on Top Layer And Track (78.175mm,52.3mm)(81.175mm,52.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT1-P$2(78.2mm,53.6mm) on Top Layer And Track (78.175mm,54.9mm)(81.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT1-P$3(81.15mm,53.6mm) on Top Layer And Track (78.175mm,52.3mm)(81.175mm,52.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT1-P$3(81.15mm,53.6mm) on Top Layer And Track (78.175mm,54.9mm)(81.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT1-P$3(81.15mm,53.6mm) on Top Layer And Track (81.175mm,52.3mm)(81.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT2-P$1(99.675mm,55.125mm) on Top Layer And Track (98.175mm,54.9mm)(101.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT2-P$2(98.2mm,53.6mm) on Top Layer And Track (98.175mm,52.3mm)(101.175mm,52.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT2-P$2(98.2mm,53.6mm) on Top Layer And Track (98.175mm,52.3mm)(98.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT2-P$2(98.2mm,53.6mm) on Top Layer And Track (98.175mm,54.9mm)(101.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.178mm) Between Pad SMT2-P$3(101.15mm,53.6mm) on Top Layer And Track (101.175mm,52.3mm)(101.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT2-P$3(101.15mm,53.6mm) on Top Layer And Track (98.175mm,52.3mm)(101.175mm,52.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.178mm) Between Pad SMT2-P$3(101.15mm,53.6mm) on Top Layer And Track (98.175mm,54.9mm)(101.175mm,54.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.136mm]
+Rule Violations :14
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "SMT1" (77.826mm,56.515mm) on Top Overlay And Text "U1" (81.9mm,54.85mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=200mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:00

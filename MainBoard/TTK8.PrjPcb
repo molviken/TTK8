@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XAHRNUVU
+DocumentUniqueId=PABDWLOL
 
 [Document8]
 DocumentPath=..\molvik-lib\Crystals.PcbLib
@@ -666,6 +666,117 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCQAYQLV
 
+[Document38]
+DocumentPath=..\molvik-lib\Charger.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ATUSJPHC
+
+[Document39]
+DocumentPath=..\molvik-lib\Charger.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LEMJJMRM
+
+[Document40]
+DocumentPath=..\..\altium-lib\output files\output_job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TTK8\Design Rule Check - TTK8.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for TTK8\NC Drill\TTK8-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for TTK8\NC Drill\TTK8-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for TTK8\NC Drill\TTK8.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for TTK8\NC Drill\TTK8.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for TTK8\Gerber\TTK8.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -785,7 +896,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=insane
+TargetPrinter=Xerox Phaser 6510 V4 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1269,6 +1380,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1635,6 +1776,120 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=18432Crystal.SchLib
+ComponentDesignItemID0=AB-1.8432MHZ-B2
+ComponentSymbolReference0=AB-1.8432MHZ-B2
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=ATMEGA324PB-AU.SchLib
+ComponentDesignItemID1=ATMEGA324PB-AU
+ComponentSymbolReference1=ATMEGA324PB-AU
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=BatteryHolder.SchLib
+ComponentDesignItemID2=18650
+ComponentSymbolReference2=18650
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Charger.SchLib
+ComponentDesignItemID3=AdaUSBC
+ComponentSymbolReference3=AdaUSBC
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Connectors.SchLib
+ComponentDesignItemID4=123-34-2234_1
+ComponentSymbolReference4=123-34-2234_1
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Connectors.SchLib
+ComponentDesignItemID5=67996-406HLF
+ComponentSymbolReference5=67996-406HLF
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Crystal-Molvik.SchLib
+ComponentDesignItemID6=9HT10-32.768KEZC-T
+ComponentSymbolReference6=9HT10-32.768KEZC-T
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Header.SchLib
+ComponentDesignItemID7=Header1X10
+ComponentSymbolReference7=Header1X10
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=OVLib_64.SVNDbLib/altium_Kondensatorer
+ComponentDesignItemID8=3133
+ComponentSymbolReference8=CAP
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=OVLib_64.SVNDbLib/altium_Kondensatorer
+ComponentDesignItemID9=5152
+ComponentSymbolReference9=CAP
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=OVLib_64.SVNDbLib/altium_Motstander
+ComponentDesignItemID10=5264
+ComponentSymbolReference10=Resistor2
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Passive components.SchLib
+ComponentDesignItemID11=02016D104KAT2A
+ComponentSymbolReference11=02016D104KAT2A
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Passive components.SchLib
+ComponentDesignItemID12=C0603C105K8PACTU
+ComponentSymbolReference12=C0603C105K8PACTU
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Passive components.SchLib
+ComponentDesignItemID13=CPF-A-0603B100KE1
+ComponentSymbolReference13=CPF-A-0603B100KE1
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Passive components.SchLib
+ComponentDesignItemID14=CRCW04020000Z0ED
+ComponentSymbolReference14=CRCW04020000Z0ED
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Passive components.SchLib
+ComponentDesignItemID15=MLZ1608A2R2WT
+ComponentSymbolReference15=MLZ1608A2R2WT
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Sensors.SchLib
+ComponentDesignItemID16=KSC222G LFS
+ComponentSymbolReference16=KSC222G LFS
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Transistors.SchLib
+ComponentDesignItemID17=DMP1045U
+ComponentSymbolReference17=DMP1045U
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Voltage regulators.SchLib
+ComponentDesignItemID18=CAT3200TDI-GT3
+ComponentSymbolReference18=CAT3200TDI-GT3
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1648,6 +1903,133 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=antall
+ParameterUpdate0=1
+ParameterName1=Availability
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Cont. drain current
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=dybde
+ParameterUpdate6=1
+ParameterName7=hylle
+ParameterUpdate7=1
+ParameterName8=id
+ParameterUpdate8=1
+ParameterName9=komponenttype
+ParameterUpdate9=1
+ParameterName10=lager_type
+ParameterUpdate10=1
+ParameterName11=leverandor
+ParameterUpdate11=1
+ParameterName12=leverandor_varenr
+ParameterUpdate12=1
+ParameterName13=Library Reference
+ParameterUpdate13=1
+ParameterName14=MF
+ParameterUpdate14=1
+ParameterName15=MP
+ParameterUpdate15=1
+ParameterName16=navn
+ParameterUpdate16=1
+ParameterName17=nokkelord
+ParameterUpdate17=1
+ParameterName18=Package
+ParameterUpdate18=1
+ParameterName19=pakke_opprettet
+ParameterUpdate19=1
+ParameterName20=pakke_opprettet_av
+ParameterUpdate20=1
+ParameterName21=pakketype
+ParameterUpdate21=1
+ParameterName22=Price
+ParameterUpdate22=1
+ParameterName23=pris
+ParameterUpdate23=1
+ParameterName24=produsent
+ParameterUpdate24=1
+ParameterName25=rad
+ParameterUpdate25=1
+ParameterName26=rom
+ParameterUpdate26=1
+ParameterName27=SnapEDA_Link
+ParameterUpdate27=1
+ParameterName28=Supplier 1
+ParameterUpdate28=1
+ParameterName29=Supplier Part Number 1
+ParameterUpdate29=1
+ParameterName30=symbol_opprettet
+ParameterUpdate30=1
+ParameterName31=symbol_opprettet_av
+ParameterUpdate31=1
+ParameterName32=Threshold voltage
+ParameterUpdate32=1
+ParameterName33=Value
+ParameterUpdate33=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=*QFP80P1200X1200X120-44N
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=18650
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=9HT10-32.768KEZC-T
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=AB-1.8432MHZ-B2
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=AdaUSBC
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=C0603
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=C0603C105K8PACTU
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CAPC0603(1608)55_N
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=CAPC0805(2012)100_N
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=CAT3200TDI-GT3
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=DMP1045U
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Header 2x3 2.54mm
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=Header 2x3 male
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=Header1X10
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=Inductor 0603
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=KSC222G LFS
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=R0402
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=R0603
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=RESC0603(1608)_N
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

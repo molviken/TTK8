@@ -1,0 +1,6 @@
+Added Component: Designator=*(AdaUSBC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=Net*1_1 Pin=*-5
+Added Member To Class: ClassName=TTK8 Member=Component * AdaUSBC
