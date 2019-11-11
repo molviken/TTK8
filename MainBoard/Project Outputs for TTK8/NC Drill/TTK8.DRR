@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TTK8.PcbDoc   31.10.2019  17:29:06
+NCDrill File Report For: TTK8.PcbDoc   11-Nov-19  20:05:38
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,12 +8,12 @@ ASCII SlotHoles File : TTK8-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             240       PTH        0.00inch (0.00mm)
 T2      24mil (0.6mm)                                             Round             1         PTH        0.00inch (0.00mm)
 T3      28mil (0.7mm)                                             Slot              6         PTH        0.00inch (0.00mm)
 T4      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
 T5      39mil (1mm)                                               Round             37        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              77
+Totals                                                                              285
 
 Total Processing Time (hh:mm:ss) : 00:00:00
