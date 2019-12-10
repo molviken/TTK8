@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=Vbat Pin=R3-2
+Change Net Name : Old Net Name=A1 New Net Name=NetMCU1_36
+Change Net Name : Old Net Name=NetC6_1 New Net Name=TOSC1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=TOSC2
+Added Pin To Net: NetName=XTAL1 Pin=C5-1
+Added Pin To Net: NetName=XTAL1 Pin=MCU1-8
+Added Pin To Net: NetName=XTAL1 Pin=Y1-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C3-1
+Added Pin To Net: NetName=XTAL2 Pin=MCU1-7
+Added Pin To Net: NetName=XTAL2 Pin=Y1-2
+Added Net: Name=XTAL2

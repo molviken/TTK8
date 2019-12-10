@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=C10-2
+Removed Pin From Net: NetName=Net*1_1 Pin=R3-2
+Removed Pin From Net: NetName=Net*1_1 Pin=U2-1
+Removed Pin From Net: NetName=Net*1_1 Pin=U2-3
+Change Net Name : Old Net Name=Net*1_1 New Net Name=Vbat
+Change Net Name : Old Net Name=NetMCU1_36 New Net Name=A1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=Vsensor
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-1
+Added Net: Name=NetC10_2
