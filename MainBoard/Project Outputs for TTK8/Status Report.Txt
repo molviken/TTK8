@@ -10,4 +10,8 @@ From  : PCB Document [TTK8.PcbDoc]
 Files Generated   : 4
 Documents Printed : 0
 
+<<<<<<< HEAD
 Finished Output Generation At 22:08:34 On 12.11.2019
+=======
+Finished Output Generation At 20:05:38 On 11-Nov-19
+>>>>>>> 4cfc54094d38d1d71729780dd251eca48cae381b

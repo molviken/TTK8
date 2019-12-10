@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DRC Rules Export File for PCB: C:\Users\oystmol\Documents\Prosjektoppgave\Altium\TTK8-master\TTK8-master\MainBoard\TTK8.PcbDoc
+=======
+DRC Rules Export File for PCB: \\sky.omegav.no\OVSky\Brukere\Molvik\TTK8\MainBoard\TTK8.PcbDoc
+>>>>>>> 4cfc54094d38d1d71729780dd251eca48cae381b
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.30

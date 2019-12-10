@@ -1,7 +1,13 @@
 Protel Design System Design Rule Check
+<<<<<<< HEAD
 PCB File : C:\Users\oystmol\Documents\Prosjektoppgave\Altium\TTK8-master\TTK8-master\MainBoard\TTK8.PcbDoc
 Date     : 12.11.2019
 Time     : 17:12:15
+=======
+PCB File : \\sky.omegav.no\OVSky\Brukere\Molvik\TTK8\MainBoard\TTK8.PcbDoc
+Date     : 11-Nov-19
+Time     : 20:04:08
+>>>>>>> 4cfc54094d38d1d71729780dd251eca48cae381b
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
 Rule Violations :0
